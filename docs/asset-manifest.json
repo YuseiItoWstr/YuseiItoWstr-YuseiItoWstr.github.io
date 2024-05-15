@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YuseiItoWstr.github.io/static/css/main.22b8b57a.css",
+    "main.js": "/YuseiItoWstr.github.io/static/js/main.be068b60.js",
+    "static/media/MD.mp4": "/YuseiItoWstr.github.io/static/media/MD.ab7f6edc6619bcd2752d.mp4",
+    "static/media/colorful2.jpg": "/YuseiItoWstr.github.io/static/media/colorful2.fc3f7f0617e2c81a16bf.jpg",
+    "static/media/colorful.jpg": "/YuseiItoWstr.github.io/static/media/colorful.9fc0151bbedebced9531.jpg",
+    "static/media/TetrisPlay.mp4": "/YuseiItoWstr.github.io/static/media/TetrisPlay.b8c71cb03b54accf55b4.mp4",
+    "static/media/splatoon.jpeg": "/YuseiItoWstr.github.io/static/media/splatoon.c9a1a1b4dd1f4c36d266.jpeg",
+    "static/media/we_were_here.png": "/YuseiItoWstr.github.io/static/media/we_were_here.85a707c6ba0df011733f.png",
+    "static/media/react.png": "/YuseiItoWstr.github.io/static/media/react.81ed438b18e24116794d.png",
+    "static/media/puyoteto.png": "/YuseiItoWstr.github.io/static/media/puyoteto.b74e293b4974acd1a7c2.png",
+    "static/media/antibody.png": "/YuseiItoWstr.github.io/static/media/antibody.122795ddc7033f2f400f.png",
+    "static/media/deeplearning.png": "/YuseiItoWstr.github.io/static/media/deeplearning.bfdc173ccf38d98609c9.png",
+    "index.html": "/YuseiItoWstr.github.io/index.html",
+    "main.22b8b57a.css.map": "/YuseiItoWstr.github.io/static/css/main.22b8b57a.css.map",
+    "main.be068b60.js.map": "/YuseiItoWstr.github.io/static/js/main.be068b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b8b57a.css",
+    "static/js/main.be068b60.js"
+  ]
+}
